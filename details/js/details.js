@@ -1,10 +1,10 @@
-let list = [];
+let product = {};
 let url= "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/";
 var index = window.location.search.substring(4);
 async function draw() {
     document.querySelector(".spinner-box").classList.remove("hidden");
-    const response = await fetch(url + ".json");
-    list = await response.json();
+    const response = await fetch(url+index+".json");
+    product = await response.json();
     document.querySelector(".spinner-box").classList.add("hidden");
     var str = "";
 
@@ -12,18 +12,18 @@ async function draw() {
     <div class="col-12 col-md-6">
                 <div id="content-wrapper">
                     <div class="column">
-                        <img class="mainPicture bounceIn" id="mainImage" src="${list[index].imagine}">
+                        <img class="mainPicture bounceIn" id="mainImage" src="${product.imagine}">
 
                         <div id="slide-wrapper">
                             <i id="slideLeft" class="fa fa-chevron-circle-left arrow" aria-hidden="true"></i>
 
                             <div id="slider">
-                                <img class="thumbnail active" src="${list[index].imagine}">
+                                <img class="thumbnail active" src="${product.imagine}">
 
-                                <img class="thumbnail" src="${list[index].imageOne}">
-                                <img class="thumbnail" src="${list[index].imageTwo}">
-                                <img class="thumbnail" src="${list[index].imageThree}">
-                                <img class="thumbnail" src="${list[index].imageFour}">
+                                <img class="thumbnail" src="${product.imageOne}">
+                                <img class="thumbnail" src="${product.imageTwo}">
+                                <img class="thumbnail" src="${product.imageThree}">
+                                <img class="thumbnail" src="${product.imageFour}">
 
 
                             </div>
@@ -40,20 +40,20 @@ async function draw() {
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-12">
-                            <h1 class="product-details product-details-1 ft-twelve">${list[index].nume}</h1>
+                            <h1 class="product-details product-details-1 ft-twelve">${product.nume}</h1>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-12">
-                            <p class="product-details product-details-2 ft-three">- ${list[index].categorie} -</p>
+                            <p class="product-details product-details-2 ft-three">- ${product.categorie} -</p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-12">
-                            <p class="product-details product-details-4 bounceIn pr-3">${list[index].pret} Lei</p>
+                            <p class="product-details product-details-4 bounceIn pr-3">${product.pret} Lei</p>
                             <div class="stoc-wrap">
                                 <button type="button" class="btn btn-success ft-three">în stoc</button>
-                                <span class="stoc">- ${list[index].stoc}</span>
+                                <span class="stoc">- ${product.stoc}</span>
                             </div>
 
                         </div>
@@ -75,15 +75,15 @@ async function draw() {
         document.querySelector("#showDetails").innerHTML = str;
         var breadcrumb = "";
     breadcrumb  += `<li class="breadcrumb-item"><a class="breadcrumb-link" href="../home/index.html">Sports Stars</a></li>
-            <li class="breadcrumb-item"><a class="breadcrumb-link" href="#">${list[index].categorie}</a></li>
-            <li class="breadcrumb-item active" aria-current="page">${list[index].nume}</li>`;
+            <li class="breadcrumb-item"><a class="breadcrumb-link" href="#">${product.categorie}</a></li>
+            <li class="breadcrumb-item active" aria-current="page">${product.nume}</li>`;
     document.querySelector("#breadcrumb-style").innerHTML = breadcrumb;
 
     var description = "";
     description  += `<div class="col-md-6">
-                <h2 class="text-uppercase mb-5">${list[index].nume}</h2>
+                <h2 class="text-uppercase mb-5">${product.nume}</h2>
                 <p class="lead ft-three">
-                    ${list[index].descriere}
+                    ${product.descriere}
                 </p>
             </div>
             <div class="col-md-6">
@@ -92,21 +92,21 @@ async function draw() {
                     <tbody>
                     <tr>
                         <th scope="row">Cod producător:</th>
-                        <th class="border-0">${list[index].codProducator}</th>
+                        <th class="border-0">${product.codProducator}</th>
                     </tr>
                     <tr>
                         <th scope="row">Codul furnizorului:</th>
-                        <th class="border-0">${list[index].codFurnizor}</th>
+                        <th class="border-0">${product.codFurnizor}</th>
                     </tr>
 
                     <tr>
                         <th scope="row">Material:</th>
-                        <th class="border-0">${list[index].material}</th>
+                        <th class="border-0">${product.material}</th>
                     </tr>
 
                     <tr>
                         <th scope="row">Culoare:</th>
-                        <th class="border-0">${list[index].culoare}</th>
+                        <th class="border-0">${product.culoare}</th>
                     </tr>
 
                     </tbody>
@@ -115,28 +115,10 @@ async function draw() {
     document.querySelector(".description-row").innerHTML = description;
     }
 
-// async function addCos() {
-//     var obj = {
-//         imagine: produse.imagine,
-//         nume: produse.nume,
-//         pret: produse.pret,
-//         stoc: produse.stoc,
-//         cantitate: document.querySelector("#cantitate").value
-//     }
-//     var response = await fetch(
-//         `https://proiect-final-marian.firebaseio.com/cos/${i}.json`, {
-//             method: "put",
-//             body: JSON.stringify(obj)
-//         }
-//     );
-//     alert("Produsul a fost adaugat in cosul de cumparaturi");
-// }
-
-
 
 
 // async function addCos(event, i) {
-//     document.querySelector(".backgroundLoader").classList.remove("hidden");
+//     document.querySelector(".spinner-box").classList.remove("hidden");
 //
 //     var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}.json`);
 //     document.querySelector(".backgroundLoader").classList.add("hidden");

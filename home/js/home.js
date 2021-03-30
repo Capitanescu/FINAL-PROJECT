@@ -1,11 +1,11 @@
-var list = [];
+let list = [];
+let url= "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/";
+
 async function draw() {
-
-    document.querySelector("#loading").classList.remove("hidden");
-
-    var response = await fetch("https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/.json");
-    window.list = await response.json();
-    document.querySelector("#loading").classList.add("hidden");
+    document.querySelector(".backgroundLoader").classList.add("hidden");
+    const response = await fetch(url + ".json");
+    windows.list = await response.json();
+    document.querySelector(".backgroundLoader").classList.remove("hidden");
     var str = "";
     for (var i in list) {
         if (list[i] === null) {
@@ -40,7 +40,7 @@ async function draw() {
             </div>
         </div> 
             `;
-        document.querySelector("#showProducts").innerHTML = str;
     }
-}
+        document.querySelector("#showProducts").innerHTML = str;
 
+}

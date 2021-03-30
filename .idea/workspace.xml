@@ -2,785 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caa720c0-6952-4e2d-8196-5f31e69cff11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/Logo_white_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/accesorii-menu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/accesorii-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/accesorii.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/adidas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/child-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/favicon - Copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/man-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/nike.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_1_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_geci_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_hanorac_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_scurti_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_scurti_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_scurti_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_scurti_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantaloni_scurti_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/adidas_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_hanorac_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_scurti_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_scurti_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantaloni_scurti_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_6_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_6_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_6_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_6_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_7_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_7_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/nike_pantof_7_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_hanorac_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/puma_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_1_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_hanorac_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantaloni_scurti_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantaloni_scurti_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantaloni_scurti_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantaloni_scurti_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantaloni_scurti_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_6_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_6_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_6_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_6_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_6_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_6_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_7_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_7_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_7_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_7_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_7_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_7_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_8_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_8_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_8_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_8_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_8_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_8_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_9_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_9_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_9_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_pantof_9_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/products/reebok_tricou_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/puma.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/reebok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/secure.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/slide_four.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/slide_one.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/slide_three.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/slide_two.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/sports.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/transparent_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/woman-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/Logo_white_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/accesorii-menu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/accesorii-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/accesorii.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/adidas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/child-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/favicon - Copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/man-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/nike.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_1_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_geci_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_hanorac_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_scurti_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_scurti_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_scurti_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_scurti_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantaloni_scurti_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/adidas_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_hanorac_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_scurti_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_scurti_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantaloni_scurti_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_6_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_6_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_6_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_6_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_7_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_7_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/nike_pantof_7_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_hanorac_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/puma_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_1_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_hanorac_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantaloni_scurti_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantaloni_scurti_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantaloni_scurti_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantaloni_scurti_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantaloni_scurti_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_6_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_6_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_6_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_6_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_6_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_6_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_7_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_7_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_7_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_7_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_7_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_7_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_8_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_8_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_8_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_8_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_8_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_8_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_9_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_9_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_9_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_pantof_9_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/products/reebok_tricou_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/puma.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/reebok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/secure.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/slide_four.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/slide_one.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/slide_three.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/slide_two.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/sports.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/transparent_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/img/woman-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/Logo_white_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/accesorii-menu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/accesorii-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/accesorii.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/adidas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/child-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/favicon - Copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/man-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/nike.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_1_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_geci_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_hanorac_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_scurti_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_scurti_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_scurti_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_scurti_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantaloni_scurti_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/adidas_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_hanorac_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_scurti_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_scurti_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantaloni_scurti_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_6_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_6_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_6_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_6_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_7_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_7_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/nike_pantof_7_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_hanorac_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/puma_pantaloni_scurti_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_1_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_geci_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_hanorac_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_hanorac_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_hanorac_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_hanorac_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_hanorac_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantaloni_scurti_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantaloni_scurti_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantaloni_scurti_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantaloni_scurti_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantaloni_scurti_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantaloni_scurti_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantaloni_scurti_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_6_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_6_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_6_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_6_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_6_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_6_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_7_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_7_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_7_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_7_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_7_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_7_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_8_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_8_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_8_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_8_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_8_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_8_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_9_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_9_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_9_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_pantof_9_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/products/reebok_tricou_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/puma.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/reebok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/secure.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/slide_four.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/slide_one.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/slide_three.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/slide_two.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/sports.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/transparent_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/img/woman-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/loading.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/back-to-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/toggle-menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/cart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/css/cart.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/css/loading.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/js/back-to-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/js/cart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/js/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/js/toggle-menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/css/loading.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/details.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/js/back-to-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/js/details.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/details/js/toggle-menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/css/loading.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/js/back-to-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/js/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/js/products.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/js/toggle-menu.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/js/products.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/index.html" afterPath="$PROJECT_DIR$/home/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/js/home.js" afterPath="$PROJECT_DIR$/home/js/home.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -791,12 +16,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
+            <state relative-caret-position="544">
+              <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#56872#56878#0" expanded="true" />
@@ -805,10 +30,40 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home/js/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="75" />
+              <folding>
+                <marker date="1617062368597" expanded="true" signature="580:1813" ph="..." />
+                <marker date="1617062368597" expanded="true" signature="611:1798" ph="..." />
+                <marker date="1617062368597" expanded="true" signature="696:840" ph="..." />
+                <marker date="1617062368597" expanded="true" signature="886:1056" ph="..." />
+                <marker date="1617062368597" expanded="true" signature="1113:1363" ph="..." />
+                <marker date="1617062368597" expanded="true" signature="1162:1340" ph="..." />
+                <marker date="1617062368597" expanded="true" signature="1403:1779" ph="..." />
+                <marker date="1617062368597" expanded="true" signature="1553:1755" ph="..." />
+                <marker date="1617062368597" expanded="true" signature="1655:1730" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/db.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-505">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="details.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/details/details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
+            <state relative-caret-position="10370">
               <caret line="610" column="96" lean-forward="false" selection-start-line="610" selection-start-column="94" selection-end-line="610" selection-end-column="96" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -821,18 +76,8 @@
       <file leaf-file-name="cart.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cart/cart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="9520">
               <caret line="560" column="23" lean-forward="false" selection-start-line="560" selection-start-column="23" selection-end-line="560" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cos.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/details/js/cos.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -841,7 +86,7 @@
       <file leaf-file-name="details.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/details/js/details.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
+            <state relative-caret-position="2329">
               <caret line="137" column="36" lean-forward="true" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="108" />
               <folding>
                 <marker date="1616625089329" expanded="true" signature="483:1755" ph="..." />
@@ -889,7 +134,7 @@
       <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/js/admin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
+            <state relative-caret-position="629">
               <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="21" />
               <folding>
                 <marker date="1616668314486" expanded="true" signature="506:1191" ph="..." />
@@ -906,28 +151,18 @@
       <file leaf-file-name="edit.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/edit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10975">
+            <state relative-caret-position="782">
               <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="admin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/admin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-58">
+            <state relative-caret-position="9639">
               <caret line="567" column="97" lean-forward="false" selection-start-line="567" selection-start-column="97" selection-end-line="567" selection-end-column="97" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="products.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/js/products.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -949,12 +184,12 @@
       <find>card</find>
       <find>center-ti</find>
       <find>hidden</find>
-      <find>show</find>
       <find>id</find>
       <find>lista</find>
       <find>edit</find>
       <find>addR</find>
       <find>addPro</find>
+      <find>show</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -973,8 +208,6 @@
         <option value="$PROJECT_DIR$/home/css/loading.css" />
         <option value="$PROJECT_DIR$/home/products.json" />
         <option value="$PROJECT_DIR$/details/js/cos.json" />
-        <option value="$PROJECT_DIR$/home/js/home.js" />
-        <option value="$PROJECT_DIR$/home/index.html" />
         <option value="$PROJECT_DIR$/home/css/style.css" />
         <option value="$PROJECT_DIR$/details/css/style.css" />
         <option value="$PROJECT_DIR$/cart/css/style.css" />
@@ -986,6 +219,10 @@
         <option value="$PROJECT_DIR$/admin/js/admin.js" />
         <option value="$PROJECT_DIR$/admin/edit.html" />
         <option value="$PROJECT_DIR$/admin/admin.html" />
+        <option value="$PROJECT_DIR$/home/js/products.json" />
+        <option value="$PROJECT_DIR$/home/db.json" />
+        <option value="$PROJECT_DIR$/home/index.html" />
+        <option value="$PROJECT_DIR$/home/js/home.js" />
       </list>
     </option>
   </component>
@@ -997,9 +234,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="2576" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -1017,7 +254,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1041,24 +278,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FINAL-PROJECT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FINAL-PROJECT" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1096,7 +315,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1108,11 +327,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\JAVASCRIPT\FINAL-PROJECT\home" />
       <recent name="C:\xampp\htdocs\JAVASCRIPT\FINAL-PROJECT\home\js" />
       <recent name="C:\xampp\htdocs\JAVASCRIPT\FINAL-PROJECT\home\css" />
       <recent name="C:\xampp\htdocs\JAVASCRIPT\FINAL-PROJECT\details\css" />
       <recent name="C:\xampp\htdocs\JAVASCRIPT\FINAL-PROJECT\cart\css" />
-      <recent name="C:\xampp\htdocs\JAVASCRIPT\FINAL-PROJECT\details" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1167,6 +386,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1200,33 +425,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616495646204</updated>
-      <workItem from="1616495647396" duration="47166000" />
+      <workItem from="1616495647396" duration="47214000" />
+      <workItem from="1617042913834" duration="13613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47166000" />
+    <option name="totallyTimeSpent" value="60827000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18600954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1881663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1241,6 +467,127 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#56872#56878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/details/details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10370">
+          <caret line="610" column="96" lean-forward="false" selection-start-line="610" selection-start-column="94" selection-end-line="610" selection-end-column="96" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#50024#50030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9520">
+          <caret line="560" column="23" lean-forward="false" selection-start-line="560" selection-start-column="23" selection-end-line="560" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/details/js/cos.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/details/js/details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="36" lean-forward="true" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="108" />
+          <folding>
+            <marker date="1616625089329" expanded="true" signature="483:1755" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="526:1735" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="567:1710" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="711:1683" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="900:1507" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="1797:3548" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="1843:3523" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="1881:2072" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="1926:2045" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="2110:2298" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="2155:2221" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="2155:2271" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="2336:2907" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="2381:2880" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="2632:2848" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="2946:3499" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="3022:3472" ph="..." />
+            <marker date="1616625089329" expanded="true" signature="3332:3441" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="105" />
+          <folding>
+            <marker date="1616626103659" expanded="true" signature="688:1749" ph="..." />
+            <marker date="1616626103659" expanded="true" signature="805:975" ph="..." />
+            <marker date="1616626103659" expanded="true" signature="852:949" ph="..." />
+            <marker date="1616626103659" expanded="true" signature="1062:1254" ph="..." />
+            <marker date="1616626103659" expanded="true" signature="1062:1414" ph="..." />
+            <marker date="1616626103659" expanded="true" signature="1504:1727" ph="..." />
+            <marker date="1616626103659" expanded="true" signature="1586:1701" ph="..." />
+            <marker date="1616626103659" expanded="true" signature="1729:1749" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <marker date="1616668314486" expanded="true" signature="506:1191" ph="..." />
+            <marker date="1616668314486" expanded="true" signature="527:1165" ph="..." />
+            <marker date="1616668314486" expanded="true" signature="687:731" ph="..." />
+            <marker date="1616668314486" expanded="true" signature="687:921" ph="..." />
+            <marker date="1616668314486" expanded="true" signature="736:870" ph="..." />
+            <marker date="1616668314486" expanded="true" signature="946:1142" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9639">
+          <caret line="567" column="97" lean-forward="false" selection-start-line="567" selection-start-column="97" selection-end-line="567" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/js/products.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home/js/toggle-menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1249,14 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/js/main.js" />
     <entry file="file://$PROJECT_DIR$/home/js/back-to-top.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1265,19 +605,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/css/cart.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/cart.css" />
     <entry file="file://$PROJECT_DIR$/cart/css/cart.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
           <caret line="54" column="19" lean-forward="false" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1285,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1293,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1301,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="838">
           <caret line="83" column="1" lean-forward="false" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1309,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1317,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1325,33 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="62" column="30" lean-forward="false" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/products.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1625">
-          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/js/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="114" lean-forward="true" selection-start-line="5" selection-start-column="114" selection-end-line="5" selection-end-column="114" />
-          <folding>
-            <marker date="1616595152351" expanded="true" signature="541:1774" ph="..." />
-            <marker date="1616595152351" expanded="true" signature="572:1759" ph="..." />
-            <marker date="1616595152351" expanded="true" signature="657:801" ph="..." />
-            <marker date="1616595152351" expanded="true" signature="847:1017" ph="..." />
-            <marker date="1616595152351" expanded="true" signature="1074:1324" ph="..." />
-            <marker date="1616595152351" expanded="true" signature="1123:1301" ph="..." />
-            <marker date="1616595152351" expanded="true" signature="1364:1740" ph="..." />
-            <marker date="1616595152351" expanded="true" signature="1514:1716" ph="..." />
-            <marker date="1616595152351" expanded="true" signature="1616:1691" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1389,7 +689,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/details/js/cos.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="68">
           <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
@@ -1397,7 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/details/details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="10370">
           <caret line="610" column="96" lean-forward="false" selection-start-line="610" selection-start-column="94" selection-end-line="610" selection-end-column="96" />
           <folding>
             <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1408,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/details/js/details.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
+        <state relative-caret-position="2329">
           <caret line="137" column="36" lean-forward="true" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="108" />
           <folding>
             <marker date="1616625089329" expanded="true" signature="483:1755" ph="..." />
@@ -1435,16 +735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cart/cart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="9520">
           <caret line="560" column="23" lean-forward="false" selection-start-line="560" selection-start-column="23" selection-end-line="560" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/js/products.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1466,20 +758,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#56872#56878#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/edit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10975">
+        <state relative-caret-position="782">
           <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="27" />
           <folding />
         </state>
@@ -1487,7 +768,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/js/admin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
+        <state relative-caret-position="629">
           <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="21" />
           <folding>
             <marker date="1616668314486" expanded="true" signature="506:1191" ph="..." />
@@ -1502,9 +783,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/admin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
+        <state relative-caret-position="9639">
           <caret line="567" column="97" lean-forward="false" selection-start-line="567" selection-start-column="97" selection-end-line="567" selection-end-column="97" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/js/products.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/products.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#56872#56878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="75" />
+          <folding>
+            <marker date="1617062368597" expanded="true" signature="580:1813" ph="..." />
+            <marker date="1617062368597" expanded="true" signature="611:1798" ph="..." />
+            <marker date="1617062368597" expanded="true" signature="696:840" ph="..." />
+            <marker date="1617062368597" expanded="true" signature="886:1056" ph="..." />
+            <marker date="1617062368597" expanded="true" signature="1113:1363" ph="..." />
+            <marker date="1617062368597" expanded="true" signature="1162:1340" ph="..." />
+            <marker date="1617062368597" expanded="true" signature="1403:1779" ph="..." />
+            <marker date="1617062368597" expanded="true" signature="1553:1755" ph="..." />
+            <marker date="1617062368597" expanded="true" signature="1655:1730" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -19,19 +19,26 @@
 }
 
 
-html {
+*,
+*::before,
+*::after{
     margin: 0;
     padding: 0;
-    font-size: 62.5%;
-}
+    box-sizing: border-box;
 
+}
+/*-- iPhone X to XII Remove Gutters --*/
+html {
+    padding: env(safe-area-inset);
+    margin: 0;
+    font-size: 75%; /* 1 rem = 12px   -> 12/16 =0.75  */
+}
 body {
     /*font-family: 'Raleway', sans-serif;*/
-
+    margin: 0;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.8rem;
     font-weight: 400;
-    /*font-weight: 700;*/
 }
 
 /*COLOR SETTINGS*/
@@ -49,55 +56,55 @@ body {
 /*FONT-SIZES*/
 
 .ft-one {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 .ft-two {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
 }
 
 .ft-three {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
 }
 
 .ft-four {
-    font-size: 2rem;
+    font-size: 1.9rem;
 }
 
 .ft-five {
-    font-size: 2.2rem;
+    font-size: 2.3rem;
 }
 
 .ft-five_prime {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
 }
 
 .ft-six {
-    font-size: 2.6rem;
+    font-size: 2.5rem;
 }
 
 .ft-seven {
-    font-size: 2.8rem;
+    font-size: 2.7rem;
 }
 
 .ft-eight {
-    font-size: 3rem;
+    font-size: 2.9rem;
 }
 
 .ft-nine {
-    font-size: 3.3rem;
+    font-size: 3.2rem;
 }
 
 .ft-ten {
-    font-size: 3.6rem;
+    font-size: 3.5rem;
 }
 
 .ft-eleven {
-    font-size: 4rem;
+    font-size: 3.9rem;
 }
 
 .ft-twelve {
-    font-size: 5rem;
+    font-size: 4.9rem;
 }
 
 .ft-weight-400 {
@@ -1017,35 +1024,108 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 
-.hidden {
-    display: none;
-    text-align: center;
+.slider-style{
+    position: relative;
 
 }
 
-.backgroundLoader {
-    position: fixed;
-    background-color: rgba(255, 0, 0, 0.2);
+
+/* X-ROTATING BOXES */
+
+@keyframes configure-clockwise {
+    0% {
+        transform: rotate(0);
+    }
+    25% {
+        transform: rotate(90deg);
+    }
+    50% {
+        transform: rotate(180deg);
+    }
+    75% {
+        transform: rotate(270deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes configure-xclockwise {
+    0% {
+        transform: rotate(45deg);
+    }
+    25% {
+        transform: rotate(-45deg);
+    }
+    50% {
+        transform: rotate(-135deg);
+    }
+    75% {
+        transform: rotate(-225deg);
+    }
+    100% {
+        transform: rotate(-315deg);
+    }
+}
+.spinner-box {
     width: 100%;
     height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.74);
+    position: absolute;
+    z-index: 1000;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.configure-border-1 {
+    width: 150px;
+    height: 150px;
+    padding: 3px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-yellow-dark);
+    animation: configure-clockwise 3s ease-in-out 0s infinite alternate;
+}
+
+.configure-border-2 {
+    width: 150px;
+    height: 150px;
+    padding: 3px;
+    left: -115px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-primary);
+    transform: rotate(45deg);
+    animation: configure-xclockwise 3s ease-in-out 0s infinite alternate;
+}
+
+.configure-core {
+    width: 100%;
+    height: 100%;
+}
+.configure-core-1{
+    background-color: var(--color-primary);
+}
+.configure-core-2 {
+    background-color: var(--color-yellow-dark);
     text-align: center;
 
 
 }
-
-.loader {
-    border: 16px solid #f3f3f3;
-    border-radius: 50%;
-    border-top: 16px solid blue;
-    border-right: 16px solid green;
-    border-bottom: 16px solid red;
-    border-left: 16px solid pink;
-    width: 60px;
-    height: 60px;
-    -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
-    margin: 0 auto;
-
-
+.hidden {
+    display: none !important;
+    text-align: center;
 }
 
+.loader-icon{
+    font-size: 12rem;
+    color: var(--color-primary);
+}

@@ -12,7 +12,7 @@ async function draw() {
     <div class="col-12 col-md-6">
                 <div id="content-wrapper">
                     <div class="column">
-                        <img class="mainPicture" id="mainImage" src="${list[index].imagine}">
+                        <img class="mainPicture bounceIn" id="mainImage" src="${list[index].imagine}">
 
                         <div id="slide-wrapper">
                             <i id="slideLeft" class="fa fa-chevron-circle-left arrow" aria-hidden="true"></i>
@@ -40,18 +40,17 @@ async function draw() {
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-12">
-                            <h1 class="product-details ft-twelve">${list[index].nume}</h1>
+                            <h1 class="product-details product-details-1 ft-twelve">${list[index].nume}</h1>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-12">
-                            <p class="product-details ft-three">${list[index].pret}</p>
+                            <p class="product-details product-details-2 ft-three">- ${list[index].categorie} -</p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-12">
-                            <span class="ft-five ft-weight-400 pr-3"><s>${list[index].pret} Lei</s></span>
-                            <p class="product-details ft-eleven pr-3">${list[index].pret} Lei</p>
+                            <p class="product-details product-details-4 bounceIn pr-3">${list[index].pret} Lei</p>
                             <div class="stoc-wrap">
                                 <button type="button" class="btn btn-success ft-three">în stoc</button>
                                 <span class="stoc">- ${list[index].stoc}</span>
@@ -62,7 +61,7 @@ async function draw() {
 
                     <div class="row">
                         <div class="col-12 mt-5 d-flex align-items-center">
-                            <span class="product-details pr-2">Cantitate:</span>
+                            <span class="product-details product-details-3 pr-2">Cantitate:</span>
                             <input class="input-cart text-center" type="number" value="1" min="1" max="999" id="cantitate">
                             <button type="button" class="px-5 btn btn-primary ft-five btn-cart ml-auto"><i class="fa fa-shopping-cart" aria-hidden="true"></i>
                                 Adauga în Cos</button>
@@ -74,7 +73,46 @@ async function draw() {
      
  `;
         document.querySelector("#showDetails").innerHTML = str;
+        var breadcrumb = "";
+    breadcrumb  += `<li class="breadcrumb-item"><a class="breadcrumb-link" href="../home/index.html">Sports Stars</a></li>
+            <li class="breadcrumb-item"><a class="breadcrumb-link" href="#">${list[index].categorie}</a></li>
+            <li class="breadcrumb-item active" aria-current="page">${list[index].nume}</li>`;
+    document.querySelector("#breadcrumb-style").innerHTML = breadcrumb;
 
+    var description = "";
+    description  += `<div class="col-md-6">
+                <h2 class="text-uppercase mb-5">${list[index].nume}</h2>
+                <p class="lead ft-three">
+                    ${list[index].descriere}
+                </p>
+            </div>
+            <div class="col-md-6">
+                <h2 class="mb-5">Specificații:</h2>
+                <table class="table table-hover table-striped border-0">
+                    <tbody>
+                    <tr>
+                        <th scope="row">Cod producător:</th>
+                        <th class="border-0">${list[index].codProducator}</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Codul furnizorului:</th>
+                        <th class="border-0">${list[index].codFurnizor}</th>
+                    </tr>
+
+                    <tr>
+                        <th scope="row">Material:</th>
+                        <th class="border-0">${list[index].material}</th>
+                    </tr>
+
+                    <tr>
+                        <th scope="row">Culoare:</th>
+                        <th class="border-0">${list[index].culoare}</th>
+                    </tr>
+
+                    </tbody>
+                </table>
+            </div>`;
+    document.querySelector(".description-row").innerHTML = description;
     }
 
 // async function addCos() {

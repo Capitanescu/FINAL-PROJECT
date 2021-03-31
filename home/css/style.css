@@ -119,7 +119,7 @@ body {
 
 .top-menu-links:link,
 .top-menu-links:visited {
-    font-size: 2.2rem;
+    font-size: 1.7rem;
     background-color: var(--color-primary);
     color: white;
     text-decoration: none;
@@ -1128,4 +1128,8 @@ input[type=number]::-webkit-outer-spin-button {
 .loader-icon{
     font-size: 12rem;
     color: var(--color-primary);
+}
+
+.infos{
+    font-size: 2.5rem;
 }

@@ -31,37 +31,60 @@
         async function edit(){
             var i= window.location.search.substring(4);
             event.preventDefault();
-            document.querySelector(".backgroundLoader").classList.remove("hidden");
-            var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/products.json`);
+            document.querySelector(".spinner-box").classList.remove("hidden");
+            var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`);
             list = await response.json();
-            document.querySelector(".backgroundLoader").classList.add("hidden");
+            document.querySelector(".spinner-box").classList.add("hidden");
 
             document.querySelector("[name='nume']").value=list[i].nume;
-            document.querySelector("[name='imagine']").value=list[i].imagine;
-            document.querySelector("[name='stoc']").value=list[i].stoc;
+            document.querySelector("[name='firma']").value=list[i].firma;
+            document.querySelector("[name='categorie']").value=list[i].categorie;
             document.querySelector("[name='pret']").value=list[i].pret;
+            document.querySelector("[name='imagine']").value=list[i].imagine;
+            document.querySelector("[name='imageOne']").value=list[i].imageOne;
+            document.querySelector("[name='imageTwo']").value=list[i].imageTwo;
+            document.querySelector("[name='imageThree']").value=list[i].imageThree;
+            document.querySelector("[name='imageFour']").value=list[i].imageFour;
+            document.querySelector("[name='imageFive']").value=list[i].imageFive;
+            document.querySelector("[name='stoc']").value=list[i].stoc;
             document.querySelector("[name='descriere']").value=list[i].descriere;
+            document.querySelector("[name='codProducator']").value=list[i].codProducator;
+            document.querySelector("[name='codFurnizor']").value=list[i].codFurnizor;
+            document.querySelector("[name='material']").value=list[i].material;
+            document.querySelector("[name='culoare']").value=list[i].culoare;
 
 
         }
+
         async function addR(event) {
 
             event.preventDefault();
             var i= window.location.search.substring(4);
             var obj = {
-                imagine: document.querySelector("[name='imagine']").value,
                 nume: document.querySelector("[name='nume']").value,
-                stoc: document.querySelector("[name='stoc']").value,
+                firma: document.querySelector("[name='firma']").value,
+                categorie: document.querySelector("[name='categorie']").value,
                 pret: document.querySelector("[name='pret']").value,
-                descriere: document.querySelector("[name='descriere']").value
-            }
+                imagine: document.querySelector("[name='imagine']").value,
+                imageOne: document.querySelector("[name='imageOne']").value,
+                imageTwo: document.querySelector("[name='imageTwo']").value,
+                imageThree: document.querySelector("[name='imageThree']").value,
+                imageFour: document.querySelector("[name='imageFour']").value,
+                imageFive: document.querySelector("[name='imageFive']").value,
+                stoc: document.querySelector("[name='stoc']").value,
+                descriere: document.querySelector("[name='descriere']").value,
+                codProducator: document.querySelector("[name='codProducator']").value,
+                codFurnizor: document.querySelector("[name='codFurnizor']").value,
+                material: document.querySelector("[name='material']").value,
+                culoare: document.querySelector("[name='culoare']").value
+            };
             list[i] = obj;
             document.querySelector(".backgroundLoader").classList.add("hidden");
-            var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/products/${i}.json`,{
+            var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`,{
                 method:"put",
                 body:JSON.stringify(obj)
             });
-            document.querySelector(".backgroundLoader").classList.remove("hidden");
+            document.querySelector(".spinner-box").classList.remove("hidden");
 
 
 
@@ -79,7 +102,7 @@
             <img class="w-75" src="img/Logo.png" alt="Logo Sports Stars" title="Sports Stars">
         </div>
         <div class="col-5">
-            <form action="http://188.240.210.8/web-05/radu/index.php" class="search">
+            <form class="search">
                 <input class="search__input" placeholder="Caută produsul dorit..." type="text" style="width: 100%;">
                 <button class="search__button">
                     <i class="fa fa-search search__icon" aria-hidden="true"></i>
@@ -593,27 +616,70 @@
     <div class="row my-5">
         <div class="col-2"></div>
         <div class="col-8">
-            <form id="addForm" onsubmit="addProdus(event);" action="">
+            <form id="addForm" onsubmit="addR(event);" action="">
                 <div class="form-group">
                     <label for="name">Nume:</label>
-                    <input type="text" class="form-control form-control-style" id="name" name="name">
+                    <input type="text" class="form-control form-control-style" id="name" name="nume">
                 </div>
                 <div class="form-group">
-                    <label for="url">URL imagine:</label>
-                    <input type="text" id="url" class="form-control form-control-style"  name="price">
+                    <label for="firma">Brand:</label>
+                    <input type="text" class="form-control form-control-style" id="firma" name="firma">
+                </div>
+                <div class="form-group">
+                    <label for="categorie">Categorie:</label>
+                    <input type="text" class="form-control form-control-style" id="categorie" name="categorie">
                 </div>
                 <div class="form-group">
                     <label for="price">Preţ:</label>
-                    <input type="number" class="form-control form-control-style" id="price" name="price">
+                    <input type="number" class="form-control form-control-style" id="price" name="pret">
                 </div>
-
+                <div class="form-group">
+                    <label for="imagine">URL:</label>
+                    <input type="text" id="imagine" class="form-control form-control-style"  name="imagine">
+                </div>
+                <div class="form-group">
+                    <label for="imageOne">URL slide 1:</label>
+                    <input type="text" id="imageOne" class="form-control form-control-style"  name="imageOne">
+                </div>
+                <div class="form-group">
+                    <label for="imageTwo">URL slide 2:</label>
+                    <input type="text" id="imageTwo" class="form-control form-control-style"  name="imageTwo">
+                </div>
+                <div class="form-group">
+                    <label for="imageThree">URL slide 3:</label>
+                    <input type="text" id="imageThree" class="form-control form-control-style"  name="imageThree">
+                </div>
+                <div class="form-group">
+                    <label for="imageFour">URL slide 4:</label>
+                    <input type="text" id="imageFour" class="form-control form-control-style"  name="imageFour">
+                </div>
+                <div class="form-group">
+                    <label for="imageFive">URL slide 5:</label>
+                    <input type="text" id="imageFive" class="form-control form-control-style"  name="imageFive">
+                </div>
                 <div class="form-group">
                     <label for="stoc">Stoc:</label>
                     <input type="number" class="form-control form-control-style" id="stoc" name="stoc">
                 </div>
                 <div class="form-group">
-                    <label for="description">Descriere:</label>
-                    <textarea class="form-control" id="description" name="stoc" rows="10"></textarea>
+                    <label for="descriere">Descriere:</label>
+                    <textarea class="form-control" id="descriere" name="descriere" rows="10"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="codProducator">Cod Producător:</label>
+                    <input type="text" class="form-control form-control-style" id="codProducator" name="codProducator">
+                </div>
+                <div class="form-group">
+                    <label for="codFurnizor">Cod Furnizor:</label>
+                    <input type="text" class="form-control form-control-style" id="codFurnizor" name="codFurnizor">
+                </div>
+                <div class="form-group">
+                    <label for="material">Material:</label>
+                    <input type="text" class="form-control form-control-style" id="material" name="material">
+                </div>
+                <div class="form-group">
+                    <label for="culoare">Culoare:</label>
+                    <input type="text" class="form-control form-control-style" id="culoare" name="culoare">
                 </div>
                 <button type="submit" class="btn btn-primary add-product">Salvează produs</button>
             </form>

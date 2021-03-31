@@ -62,8 +62,8 @@ async function draw() {
                     <div class="row">
                         <div class="col-12 mt-5 d-flex align-items-center">
                             <span class="product-details product-details-3 pr-2">Cantitate:</span>
-                            <input class="input-cart text-center" type="number" value="1" min="1" max="999" id="cantitate">
-                            <button type="button" class="px-5 btn btn-primary ft-five btn-cart ml-auto"><i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                            <input class="input-cart text-center" type="number" value="1" min="1" max="${product.stoc}" id="cantitate">
+                            <button onclick="addCart(event,'${i}');" type="button" class="px-5 btn btn-primary ft-five btn-cart ml-auto"><i class="fa fa-shopping-cart" aria-hidden="true"></i>
                                 Adauga în Cos</button>
                         </div>
                     </div>
@@ -117,38 +117,38 @@ async function draw() {
 
 
 
-// async function addCos(event, i) {
+// async function addCart(event, i) {
 //     document.querySelector(".spinner-box").classList.remove("hidden");
 //
 //     var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}.json`);
-//     document.querySelector(".backgroundLoader").classList.add("hidden");
-//     produseCos = await response.json();
+//     document.querySelector(".spinner-box").classList.add("hidden");
+//     productsCart = await response.json();
 //     var found = false;
 //     var val = document.querySelector("#cantitate").value;
-//     if (produseCos !== null) {
-//         if (confirm("Produsul a mai fost adaugat in cos. Esti sigur ca vrei sa continui?")) {
-//             if (parseInt(val) + parseInt(produseCos.cantitate) <= products.stoc) {
-//                 produseCos.cantitate = parseInt(produseCos.cantitate) + parseInt(document.querySelector("#cantitate").value);
-//                 var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}/cantitate.json`, {
+//     if (productsCart !== null) {
+//         if (confirm("Produsul a mai fost adăugat în coș. Ești sigur că vrei să continui?")) {
+//             if (parseInt(val) + parseInt(productsCart.cantitate) <= product.stoc) {
+//                 productsCart.cantitate = parseInt(productsCart.cantitate) + parseInt(document.querySelector("#cantitate").value);
+//                 var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/index.json`, {
 //                     method: "put",
-//                     body: produseCos.cantitate
+//                     body: productsCart.cantitate
 //
 //
 //                 });
 //             } else {
-//                 alert('Cantitatea selectata depaseste stocul existent!');
+//                 alert('Cantitatea selectată depășește stocul existent!');
 //             }
 //
 //         }
 //
 //
-//     } else if (parseInt(val) <= products.stoc) {
+//     } else if (parseInt(val) <= product.stoc) {
 //         var obj = {
-//             imagine: products.imagine,
-//             nume: products.nume,
-//             descriere: products.descriere,
-//             pret: products.pret,
-//             stoc: products.stoc,
+//             imagine: product.imagine,
+//             nume: product.nume,
+//             descriere: product.descriere,
+//             pret: product.pret,
+//             stoc: product.stoc,
 //             cantitate: document.querySelector("#cantitate").value
 //
 //         }
@@ -158,10 +158,10 @@ async function draw() {
 //             body: JSON.stringify(obj)
 //
 //         });
-//         document.querySelector(".backgroundLoader").classList.add("hidden");
-//         alert("Produsul a fost adaugat in cos")
+//         document.querySelector(".spinner-box"").classList.add("hidden");
+//         alert("Produsul a fost adăugat în coș")
 //
 //     } else {
-//         alert('Cantitatea selectata depaseste stocul existent!');
+//         alert('Cantitatea selectată depășește stocul existent!');
 //     }
 // }

@@ -554,18 +554,46 @@
    <div class="row my-5">
        <div class="col-2"></div>
        <div class="col-8">
-           <form id="addForm" onsubmit="addProduct(event);" action="">
+           <form id="addForm" onsubmit="addProduct(event);">
                <div class="form-group">
                    <label for="name">Nume:</label>
                    <input type="text" class="form-control form-control-style" id="name" name="nume">
+               </div>
+               <div class="form-group">
+                   <label for="firma">Brand:</label>
+                   <input type="text" class="form-control form-control-style" id="firma" name="firma">
+               </div>
+               <div class="form-group">
+                   <label for="categorie">Categorie:</label>
+                   <input type="text" class="form-control form-control-style" id="categorie" name="categorie">
                </div>
                <div class="form-group">
                    <label for="price">Preţ:</label>
                    <input type="number" class="form-control form-control-style" id="price" name="pret">
                </div>
                <div class="form-group">
-                   <label for="url">URL:</label>
-                   <input type="text" id="url" class="form-control form-control-style"  name="url">
+                   <label for="imagine">URL:</label>
+                   <input type="text" id="imagine" class="form-control form-control-style"  name="imagine">
+               </div>
+               <div class="form-group">
+                   <label for="imageOne">URL slide 1:</label>
+                   <input type="text" id="imageOne" class="form-control form-control-style"  name="imageOne">
+               </div>
+               <div class="form-group">
+                   <label for="imageTwo">URL slide 2:</label>
+                   <input type="text" id="imageTwo" class="form-control form-control-style"  name="imageTwo">
+               </div>
+               <div class="form-group">
+                   <label for="imageThree">URL slide 3:</label>
+                   <input type="text" id="imageThree" class="form-control form-control-style"  name="imageThree">
+               </div>
+               <div class="form-group">
+                   <label for="imageFour">URL slide 4:</label>
+                   <input type="text" id="imageFour" class="form-control form-control-style"  name="imageFour">
+               </div>
+               <div class="form-group">
+                   <label for="imageFive">URL slide 5:</label>
+                   <input type="text" id="imageFive" class="form-control form-control-style"  name="imageFive">
                </div>
                <div class="form-group">
                    <label for="stoc">Stoc:</label>
@@ -575,7 +603,27 @@
                    <label for="descriere">Descriere:</label>
                    <textarea class="form-control" id="descriere" name="descriere" rows="10"></textarea>
                </div>
-               <button type="submit" class="btn btn-primary add-product">adaugă</button>
+               <div class="form-group">
+                   <label for="codProducator">Cod Producător:</label>
+                   <input type="text" class="form-control form-control-style" id="codProducator" name="codProducator">
+               </div>
+               <div class="form-group">
+                   <label for="codFurnizor">Cod Furnizor:</label>
+                   <input type="text" class="form-control form-control-style" id="codFurnizor" name="codFurnizor">
+               </div>
+               <div class="form-group">
+                   <label for="material">Material:</label>
+                   <input type="text" class="form-control form-control-style" id="material" name="material">
+               </div>
+               <div class="form-group">
+                   <label for="culoare">Culoare:</label>
+                   <input type="text" class="form-control form-control-style" id="culoare" name="culoare">
+               </div>
+
+
+
+
+               <button type="submit" class="btn btn-primary add-product">adaugă produs</button>
            </form>
        </div>
        <div class="col-2"></div>

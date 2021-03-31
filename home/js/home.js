@@ -39,6 +39,7 @@ async function draw() {
                 </div>
             </div>
         </div> 
+                 
             `;
         document.querySelector("#showProducts").innerHTML = str;
     }

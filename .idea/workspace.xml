@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caa720c0-6952-4e2d-8196-5f31e69cff11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/css/mediaqueries.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/admin.html" afterPath="$PROJECT_DIR$/admin/admin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/edit.html" afterPath="$PROJECT_DIR$/admin/edit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/js/admin.js" afterPath="$PROJECT_DIR$/admin/js/admin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/details/js/details.js" afterPath="$PROJECT_DIR$/details/js/details.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/css/mediaqueries.css" afterPath="$PROJECT_DIR$/home/css/mediaqueries.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/css/style.css" afterPath="$PROJECT_DIR$/home/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/index.html" afterPath="$PROJECT_DIR$/home/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/js/home.js" afterPath="$PROJECT_DIR$/home/js/home.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +19,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="702" column="39" lean-forward="false" selection-start-line="702" selection-start-column="39" selection-end-line="702" selection-end-column="39" />
+            <state relative-caret-position="443">
+              <caret line="824" column="72" lean-forward="false" selection-start-line="824" selection-start-column="72" selection-end-line="824" selection-end-column="72" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#57165#57171#0" expanded="true" />
+                <element signature="e#57251#57257#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/home/css/mediaqueries.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="477">
-              <caret line="113" column="5" lean-forward="false" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+              <caret line="334" column="0" lean-forward="true" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,8 +42,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="1132" column="0" lean-forward="false" selection-start-line="1132" selection-start-column="0" selection-end-line="1134" selection-end-column="1" />
+            <state relative-caret-position="-274">
+              <caret line="686" column="0" lean-forward="false" selection-start-line="686" selection-start-column="0" selection-end-line="689" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -199,9 +193,10 @@
       <find>top-menu</find>
       <find>list[index]</find>
       <find>Program</find>
-      <find>top</find>
       <find>Metode</find>
       <find>infos</find>
+      <find>top</find>
+      <find>cop</find>
       <find>book</find>
     </findStrings>
   </component>
@@ -234,8 +229,8 @@
         <option value="$PROJECT_DIR$/admin/admin.html" />
         <option value="$PROJECT_DIR$/admin/edit.html" />
         <option value="$PROJECT_DIR$/admin/js/admin.js" />
-        <option value="$PROJECT_DIR$/home/css/style.css" />
         <option value="$PROJECT_DIR$/home/js/home.js" />
+        <option value="$PROJECT_DIR$/home/css/style.css" />
         <option value="$PROJECT_DIR$/home/index.html" />
         <option value="$PROJECT_DIR$/home/css/mediaqueries.css" />
       </list>
@@ -491,12 +486,12 @@
       <option name="presentableId" value="Default" />
       <updated>1616495646204</updated>
       <workItem from="1616495647396" duration="47214000" />
-      <workItem from="1617042913834" duration="70884000" />
+      <workItem from="1617042913834" duration="78002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118098000" />
+    <option name="totallyTimeSpent" value="125216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -538,7 +533,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#57165#57171#0" expanded="true" />
+            <element signature="e#57251#57257#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -873,14 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="1132" column="0" lean-forward="false" selection-start-line="1132" selection-start-column="0" selection-end-line="1134" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/details/js/product-image-slide.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -923,13 +910,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="686" column="0" lean-forward="false" selection-start-line="686" selection-start-column="0" selection-end-line="689" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="702" column="39" lean-forward="false" selection-start-line="702" selection-start-column="39" selection-end-line="702" selection-end-column="39" />
+        <state relative-caret-position="443">
+          <caret line="824" column="72" lean-forward="false" selection-start-line="824" selection-start-column="72" selection-end-line="824" selection-end-column="72" />
           <folding>
             <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#57165#57171#0" expanded="true" />
+            <element signature="e#57251#57257#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -937,7 +932,7 @@
     <entry file="file://$PROJECT_DIR$/home/css/mediaqueries.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
-          <caret line="113" column="5" lean-forward="false" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+          <caret line="334" column="0" lean-forward="true" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
           <folding />
         </state>
       </provider>

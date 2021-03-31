@@ -117,6 +117,17 @@
     .infos {
         font-size: 2rem;
     }
+    .img-fluid {
+        max-width: 113.4%;
+    }
+    .footer-list-item {
+        line-height: 2.6rem;
+    }
+}
+@media screen and (max-width:948px){
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1.2rem;
+    }
 }
 
 @media screen and (max-width:900px){
@@ -124,47 +135,203 @@
         font-size: 56.25%;  /* 1 rem = 8px   -> 8/16 =0.50 */
     }
 
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1.1rem;
+    }
+
+
+}
+@media screen and (max-width:850px){
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1rem;
+    }
+}
+@media screen and (max-width:802px){
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: .9rem;
+    }
 }
 @media screen and (max-width:767.98px){
-
+    .img-fluid {
+        max-width: 100%;
+    }
+    .infos {
+        font-size: 1.8rem;
+    }
+    .icon-building{
+        font-size: 2.2rem;
+    }
 }
-@media screen and (max-width: 600px){
-
+@media screen and (max-width: 753px){
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1.4rem;
+    }
+}
+@media screen and (max-width: 664px){
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1.3rem;
+    }
+}
+@media screen and (max-width: 655px){
+    .small-justify{
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .img-fluid {
+        max-width: 70.3%;
+    }
+}
+@media screen and (max-width: 632px){
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1.2rem;
+    }
+    .w-75 {
+        width: 112.7%!important;
+    }
+}
+@media screen and (max-width: 599px){
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1.1rem;
+    }
+}
+@media screen and (max-width:576px){
+    .search__input {
+        font-size: 1.5rem;
+    }
 }
 @media screen and (max-width:575.98px){
+    .search__input {
+        font-size: 1.5rem;
+    }
+    .w-75 {
+        width: 75%!important;
+    }
+    .search__input {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+    .search__icon {
+        font-size: 2.3rem;
+        margin-bottom: 1.6rem;
+    }
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 2.1rem;
+        display: inherit;
+        margin-bottom: 10px;
+    }
+    .icon-top{
+        text-align: center;
+    }
+    .icon-control {
+        width: 4rem;
+        height: 4rem;
+    }
+    .carousel-round-btn {
+        width: 2rem !important;
+        height: 2rem !important;
+    }
+    .card-text {
+        font-size: 2.2rem;
+    }
+    .car-title-style {
+        font-size: 3.2rem;
+    }
+    .card-price {
+        font-size: 3.8rem;
+    }
+    .btn-cart {
+        font-size: 2.1rem;
+    }
+    .img-fluid {
+        max-width: 52.5%;
+        margin-bottom: 1.1rem;
+    }
+    .small-justify {
+        align-items: center;
+    }
+    .footer-logo-sm-device{
+        text-align: center;
+    }
+    .copyright {
+        font-size: 2rem;
+    }
 
 }
-@media screen and (max-width:414px) {
-
+@media screen and (max-width:567px) {
+    .infos {
+        font-size: 1.7rem;
+    }
+}
+@media screen and (max-width:537px) {
+    .infos {
+        font-size: 1.6rem;
+    }
+}
+@media screen and (max-width:507px) {
+    .infos {
+        font-size: 1.5rem;
+    }
+}
+@media screen and (max-width:477px) {
+    .infos {
+        font-size: 1.4rem;
+    }
+    .icon-building {
+        font-size: 1.9rem;
+    }
+}
+@media screen and (max-width:447px) {
+    .infos {
+        font-size: 1.3rem;
+    }
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1.8rem;
+    }
+}
+@media screen and (max-width:447px) {
+    .infos {
+        font-size: 1.3rem;
+    }
+    .top-menu-links:link, .top-menu-links:visited {
+        font-size: 1.8rem;
+    }
+}
+@media screen and (max-width:417px) {
+    .infos {
+        font-size: 1.2rem;
+    }
+}
+@media screen and (max-width: 388px) {
+    .infos {
+        font-size: 1.1rem;
+    }
+    .back-to-top i {
+        font-size: 5rem;
+    }
 }
 
-@media screen and (max-width:412px){
-
-}
-@media screen and (max-width:375px){
-
-}
 @media screen and (max-width:360px){
-
+    .icon-control {
+        width: 3rem;
+        height: 3rem;
+    }
+    .carousel-round-btn {
+        width: 1.6rem !important;
+        height: 1.6rem !important;
+    }
+    .center-title{
+        font-size: 2.8rem!important;
+    }
+    .card-price {
+        font-size: 3rem;
+    }
+    .card-text {
+        font-size: 2rem;
+    }
 }
 @media screen and (max-width:320px) {
 
 }
 
-/*RESPONSIVE FOOTER*/
-
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-
-
-}
-@media only screen and (max-width: 767px) {
-
-}
-@media screen and (max-width:575.98px){
-
-}
-@media screen and (max-width:375px){
-
-}
 
 

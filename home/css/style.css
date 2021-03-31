@@ -686,6 +686,7 @@ h5 {
 
 .copyright {
     color: white;
+    font-size: 1.5rem;
 }
 
 .other-categories:link,
@@ -1131,5 +1132,8 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .infos{
-    font-size: 2.5rem;
+     font-size: 2.5rem;
+ }
+.icon-building{
+    font-size: 2.9rem;
 }

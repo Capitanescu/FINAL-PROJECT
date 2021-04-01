@@ -1227,5 +1227,13 @@ input[type=number]::-webkit-outer-spin-button {
         transform: scale3d(1, 1, 1);
     }
 }
-
-×
+success:not(:disabled):not(.disabled):active, .show>.btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #1e7e34;
+    border-color: #1c7430;
+    font-size: 2.6rem;
+}
+.stoc {
+    font-size: 3.4rem;
+    margin-left: 0.8rem;
+}

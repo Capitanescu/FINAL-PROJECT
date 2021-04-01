@@ -117,51 +117,51 @@ async function draw() {
 
 
 
-// async function addCart(event, i) {
-//     document.querySelector(".spinner-box").classList.remove("hidden");
-//
-//     var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}.json`);
-//     document.querySelector(".spinner-box").classList.add("hidden");
-//     productsCart = await response.json();
-//     var found = false;
-//     var val = document.querySelector("#cantitate").value;
-//     if (productsCart !== null) {
-//         if (confirm("Produsul a mai fost adăugat în coș. Ești sigur că vrei să continui?")) {
-//             if (parseInt(val) + parseInt(productsCart.cantitate) <= product.stoc) {
-//                 productsCart.cantitate = parseInt(productsCart.cantitate) + parseInt(document.querySelector("#cantitate").value);
-//                 var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/index.json`, {
-//                     method: "put",
-//                     body: productsCart.cantitate
-//
-//
-//                 });
-//             } else {
-//                 alert('Cantitatea selectată depășește stocul existent!');
-//             }
-//
-//         }
-//
-//
-//     } else if (parseInt(val) <= product.stoc) {
-//         var obj = {
-//             imagine: product.imagine,
-//             nume: product.nume,
-//             descriere: product.descriere,
-//             pret: product.pret,
-//             stoc: product.stoc,
-//             cantitate: document.querySelector("#cantitate").value
-//
-//         }
-//         document.querySelector(".backgroundLoader").classList.remove("hidden");
-//         var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}.json`, {
-//             method: "put",
-//             body: JSON.stringify(obj)
-//
-//         });
-//         document.querySelector(".spinner-box"").classList.add("hidden");
-//         alert("Produsul a fost adăugat în coș")
-//
-//     } else {
-//         alert('Cantitatea selectată depășește stocul existent!');
-//     }
-// }
+async function addCart(event, i) {
+    document.querySelector(".spinner-box").classList.remove("hidden");
+
+    var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`);
+    document.querySelector(".spinner-box").classList.add("hidden");
+    productsCart = await response.json();
+    var found = false;
+    var val = document.querySelector("#cantitate").value;
+    if (productsCart !== null) {
+        if (confirm("Produsul a mai fost adăugat în coș. Ești sigur că vrei să continui?")) {
+            if (parseInt(val) + parseInt(productsCart.cantitate) <= product.stoc) {
+                productsCart.cantitate = parseInt(productsCart.cantitate) + parseInt(document.querySelector("#cantitate").value);
+                var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`, {
+                    method: "put",
+                    body: productsCart.cantitate
+
+
+                });
+            } else {
+                alert('Cantitatea selectată depășește stocul existent!');
+            }
+
+        }
+
+
+    } else if (parseInt(val) <= product.stoc) {
+        var obj = {
+            imagine: product.imagine,
+            nume: product.nume,
+            descriere: product.descriere,
+            pret: product.pret,
+            stoc: product.stoc,
+            cantitate: document.querySelector("#cantitate").value
+
+        }
+        document.querySelector(".backgroundLoader").classList.remove("hidden");
+        var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`, {
+            method: "put",
+            body: JSON.stringify(obj)
+
+        });
+        document.querySelector(".spinner-box"").classList.add("hidden");
+        alert("Produsul a fost adăugat în coș")
+
+    } else {
+        alert('Cantitatea selectată depășește stocul existent!');
+    }
+}

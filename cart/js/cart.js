@@ -5,7 +5,7 @@ async function draw() {
     var total = 0;
     var totalProduse = 0;
     document.querySelector(".spinner-box").classList.remove("hidden");
-    var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`);
+    var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/.json`);
     list = await response.json();
     document.querySelector(".spinner-box").classList.add("hidden");
     var str = "";
@@ -19,7 +19,7 @@ async function draw() {
                     <th name="nume"><a href="../details/details.html?id=${i}">${list[i].nume}</a></th>
                     <td name="imagine">
                         <div class="img-wrap">
-                            <img src="${list[i].imagine}" alt="">
+                            <img src="${list[i.imagine]}" alt="">
                         </div>
                     </td>
                     <td name="pret">${list[i].pret}</td>
@@ -48,7 +48,7 @@ async function draw() {
 async function decrease(event, i) {
     if (list[i].cantitate > 1) {
         document.querySelector(".spinner-box").classList.remove("hidden");
-        var response = await fetch(url+index+".json", {
+        var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}/cantitate.json`, {
             method: "put",
             body: parseInt(list[i].cantitate) - 1
         });
@@ -61,7 +61,7 @@ async function decrease(event, i) {
 async function increase(event, i) {
     if (list[i].cantitate < list[i].stoc) {
         document.querySelector(".spinner-box").classList.remove("hidden");
-        var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`, {
+        var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}/cantitate.json`, {
             method: "put",
             body: parseInt(list[i].cantitate) + 1
         });
@@ -73,7 +73,7 @@ async function increase(event, i) {
 }
 async function sterge(event, i) {
     document.querySelector(".spinner-box").classList.remove("hidden");
-    var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`, {
+    var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}.json`, {
         method: "delete"
     });
     document.querySelector(".spinner-box").classList.add("hidden");

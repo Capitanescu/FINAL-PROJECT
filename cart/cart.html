@@ -24,11 +24,24 @@
     <link rel="stylesheet" href="css/loading.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/cart.css">
+    <script src="js/cart.js"></script>
 
 
     <title>Sports Star</title>
 </head>
-<body>
+<body onload="draw();">
+<div class="spinner-box">
+    <div class="configure-border-1">
+        <div class="configure-core configure-core-1">
+
+        </div>
+    </div>
+    <div class="configure-border-2">
+        <div class="configure-core configure-core-2">
+            <i class="far fa-futbol loader-icon"></i>
+        </div>
+    </div>
+</div>
 
 <div class="container-fluid">
 
@@ -558,7 +571,7 @@
                     <th scope="col"></th>
                 </tr>
                 </thead>
-                <tbody></tbody>
+                <tbody id="tbody-cart"></tbody>
             </table>
 
 
@@ -570,13 +583,16 @@
         <div class="col-12">
             <ul class="card-list">
                 <li class="card-item">
-                    Produse: <span> 1</span>
+                    Produse: <span id="products"></span>
                 </li>
                 <li class="card-item">
-                    Transport: <span> 5</span> Lei
+                    TVA: <span id="tva"></span>
                 </li>
                 <li class="card-item">
-                    Total: <span> 100</span> Lei
+                    Transport: <span id="transport"></span> Lei
+                </li>
+                <li class="card-item">
+                    Total: <span id="totalPrice"></span> Lei
                 </li>
             </ul>
         </div>

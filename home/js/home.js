@@ -1,5 +1,5 @@
 let list = [];
-let url= "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/";
+let url= "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/produse";
 
 async function draw() {
      document.querySelector(".spinner-box").classList.remove("hidden");

@@ -3,7 +3,7 @@ var product = [];
 async function draw() {
     document.querySelector(".spinner-box").classList.remove("hidden");
     var response = await fetch(
-        "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/"
+        "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/produse.json"
     );
     product = await response.json();
     document.querySelector(".spinner-box").classList.add("hidden");
@@ -24,7 +24,7 @@ async function draw() {
                         
                     </td>
                     <td>
-                        <button onclick="delete(event,'${i}');" class="link-icon" type="button"><i class="fas fa-trash-alt icon-style-2" aria-hidden="true"></i></button>
+                        <button onclick="sterge(event,'${i}');" class="link-icon" type="button"><i class="fas fa-trash-alt icon-style-2" aria-hidden="true"></i></button>
                     </td>
 
                 </tr>
@@ -35,7 +35,7 @@ async function draw() {
     document.querySelector("#productsList").innerHTML = str;
 }
 
-let url= "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/";
+
 async function addProduct(event) {
     event.preventDefault();
 
@@ -79,7 +79,7 @@ async function addProduct(event) {
             culoare: document.querySelector("[name='culoare']").value
         };
         document.querySelector(".spinner-box").classList.remove("hidden");
-        const response = await fetch(url+".json", {
+        var response = await fetch("https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/produse.json", {
                 method: "post",
                 body: JSON.stringify(obj),
                 headers: {
@@ -90,22 +90,19 @@ async function addProduct(event) {
         draw();
         document.querySelector("#addForm").reset();
     }
-
-
 }
 
-async function delete(event, i) {
+async function sterge(event, i) {
     event.preventDefault();
     if (confirm("Esti sigur ca vrei sa stergi produsul?")) {
         document.querySelector(".spinner-box").classList.remove("hidden");
-        var response = await
-        fetch(
-            `https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`, {
+        var response = await fetch(
+            `https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/produse/${i}.json`, {
 
                 method: "delete"
-            })
+            });
         document.querySelector(".spinner-box").classList.add("hidden");
         draw();
-    };
+    }
 
 }

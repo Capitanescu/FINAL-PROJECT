@@ -1,8 +1,8 @@
 let product = {};
-let url= "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/";
 var index = window.location.search.substring(4);
-async function draw() {
+async function details() {
     document.querySelector(".spinner-box").classList.remove("hidden");
+    var url= "https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/produse/";
     const response = await fetch(url+index+".json");
     product = await response.json();
     document.querySelector(".spinner-box").classList.add("hidden");
@@ -124,51 +124,61 @@ async function draw() {
 
 
 
-// async function addCart(event, i) {
-//     document.querySelector(".spinner-box").classList.remove("hidden");
-//
-//     var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`);
-//     document.querySelector(".spinner-box").classList.add("hidden");
-//     productsCart = await response.json();
-//     var found = false;
-//     var val = document.querySelector("#cantitate").value;
-//     if (productsCart !== null) {
-//         if (confirm("Produsul a mai fost adăugat în coș. Ești sigur că vrei să continui?")) {
-//             if (parseInt(val) + parseInt(productsCart.cantitate) <= product.stoc) {
-//                 productsCart.cantitate = parseInt(productsCart.cantitate) + parseInt(document.querySelector("#cantitate").value);
-//                 var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`, {
-//                     method: "put",
-//                     body: productsCart.cantitate
-//
-//
-//                 });
-//             } else {
-//                 alert('Cantitatea selectată depășește stocul existent!');
-//             }
-//
-//         }
-//
-//
-//     } else if (parseInt(val) <= product.stoc) {
-//         var obj = {
-//             imagine: product.imagine,
-//             nume: product.nume,
-//             descriere: product.descriere,
-//             pret: product.pret,
-//             stoc: product.stoc,
-//             cantitate: document.querySelector("#cantitate").value
-//
-//         }
-//         document.querySelector(".backgroundLoader").classList.remove("hidden");
-//         var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/`, {
-//             method: "put",
-//             body: JSON.stringify(obj)
-//
-//         });
-//         document.querySelector(".spinner-box"").classList.add("hidden");
-//         alert("Produsul a fost adăugat în coș")
-//
-//     } else {
-//         alert('Cantitatea selectată depășește stocul existent!');
-//     }
-// }
+async function addCart(event, i) {
+    document.querySelector(".spinner-box").classList.remove("hidden");
+    var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}.json`);
+    document.querySelector(".spinner-box").classList.add("hidden");
+    productsCart = await response.json();
+    var found = false;
+    var val = document.querySelector("#cantitate").value;
+    if (productsCart !== null) {
+        if (confirm("Produsul a mai fost adăugat în coș. Ești sigur că vrei să continui?")) {
+            if (parseInt(val) + parseInt(productsCart.cantitate) <= product.stoc) {
+                productsCart.cantitate = parseInt(productsCart.cantitate) + parseInt(document.querySelector("#cantitate").value);
+                var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}.json`, {
+                    method: "put",
+                    body: productsCart.cantitate
+
+
+                });
+            } else {
+                alert('Cantitatea selectată depășește stocul existent!');
+            }
+
+        }
+
+
+    } else if (parseInt(val) <= product.stoc) {
+        var obj = {
+            nume: product.nume,
+            firma: product.firma,
+            categorie: product.categorie,
+            pret: product.pret,
+            imagine: product.imagine,
+            imageOne: product.imageOne,
+            imageTwo: product.imageTwo,
+            imageThree: product.imageThree,
+            imageFour: product.imageFour,
+            imageFive: product.imageFive,
+            stoc: product.stoc,
+            descriere: product.descriere,
+            codProducator: product.codProducator,
+            codFurnizor: product.codFurnizor,
+            material: product.material,
+            culoare: product.culoare,
+            cantitate: document.querySelector("#cantitate").value
+
+        }
+        document.querySelector(".spinner-box").classList.remove("hidden");
+        var response = await fetch(`https://sports-stars-9b532-default-rtdb.europe-west1.firebasedatabase.app/cos/${i}.json`, {
+            method: "put",
+            body: JSON.stringify(obj)
+
+        });
+        document.querySelector(".spinner-box").classList.add("hidden");
+        alert("Produsul a fost adăugat în coș")
+
+    } else {
+        alert('Cantitatea selectată depășește stocul existent!');
+    }
+}

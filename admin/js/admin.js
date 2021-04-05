@@ -15,6 +15,12 @@ async function draw() {
         str += `
         <tbody>
                 <tr>
+                    <td>
+                        <div class="img-wrap">
+                            <img src="${product[i].imagine}" alt="">
+                        </div>
+                    </td>
+                    <td>${product[i].imagine}</td>
                     <td>${product[i].nume}</td>
                     <td>${product[i].stoc}</td>
                     <td>${product[i].pret}</td>
